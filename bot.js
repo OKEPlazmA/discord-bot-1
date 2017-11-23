@@ -6,9 +6,9 @@ client.on('ready', {} => {
 });
 
 client.on('message', message => {
-  if (message.content === 'ping') {
+  if (message.content === '.ping') {
     message.reply('pong');
     }
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.MzM5MjIwMjU4MDI2MTYwMTMx.DPfeng.z84V4nTl8YwPmmuPzk-6EmfoUjY);
